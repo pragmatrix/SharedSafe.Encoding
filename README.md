@@ -1,4 +1,4 @@
-# Toolbox Repository for SharedSafe
+# SharedSafe's Cryptography and SevenZip Compression
 
 This repository contains SharedSafe's Cryptography and SevenZip Compression implementation. More information is available at [SharedSafe](http://www.sharedsafe.com).
 
