@@ -2,6 +2,14 @@
 
 This repository contains SharedSafe's Cryptography and SevenZip Compression implementation. More information is available at [SharedSafe](http://www.sharedsafe.com).
 
+## SevenZip
+
+This repository uses code from the [LZMA SDK](http://www.7-zip.org/sdk.html), which is in the Public Domain.
+
+## Building
+
+TBD
+
 ## License
 
 Copyright (c) 2013, rootloft GmbH & Armin Sander, All rights reserved.
